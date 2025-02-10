@@ -1,0 +1,29 @@
+
+1) perform buble sort algorithm for 
+[6,4,7,3,6,2,5,1]  using while
+
+
+2)Write a  program to find HCF (GCD) of two numbers.
+
+
+
+3)Write a  program to find frequency of each digit in a given integer.
+
+
+4)  
+    7 7 7 7 7 7 7
+    7 7       7 7
+    7 7       7 7
+    7 7       7 7
+    7 7       7 7 
+    7 7       7 7
+    7 7 7 7 7 7 7
+
+
+
+
+5)         *
+          * *
+         * * *
+       * * * * *
+      * * * * * *
